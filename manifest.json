@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Night Outline",
+  "version": "0.1.0",
+  "description": "Dark theme for Outline",
+ 
+  "content_scripts": [{
+    "css": ["style.css"],
+    "matches": ["https://outline.com/*"]
+  }] 
+}

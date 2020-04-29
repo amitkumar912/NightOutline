@@ -1,0 +1,39 @@
+body {
+    background: #000000 !important;
+}
+
+.author {
+    color: #BBBBBC !important;
+}
+
+.yue {
+    color: #BBBBBC !important;
+}
+
+.yue h1,
+.yue h2,
+.yue h3,
+.yue h4,
+.yue h5,
+.yue h6 {
+    color: #DDDDDC !important;
+}
+
+.yue em, .yue i {
+    color: #BBBBBC !important;
+}
+
+.annotations-btn,
+.copy-link-field {
+    background: #222222 !important;
+    background-color: #222222 !important;
+}
+
+.outline-toolbar {
+    background-color: #444443 !important;
+}
+
+.outline-toolbar .outline-toolbar-action .outline-toolbar-source-input {
+    background: #000000 !important;
+    box-shadow: inset 0px 2px 2px 0px #242424 !important;
+}
